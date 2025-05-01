@@ -1,0 +1,12 @@
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\bin\Debug\net8.0\MicroserviceProject.ServiceDefaults.deps.json
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\bin\Debug\net8.0\MicroserviceProject.ServiceDefaults.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\bin\Debug\net8.0\MicroserviceProject.ServiceDefaults.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.AssemblyInfo.cs
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\refint\MicroserviceProject.ServiceDefaults.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\MicroserviceProject.ServiceDefaults.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\MicroserviceProject.ServiceDefaults\obj\Debug\net8.0\ref\MicroserviceProject.ServiceDefaults.dll

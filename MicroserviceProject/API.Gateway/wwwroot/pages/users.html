@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Management</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>User Management Panel</h2>
+
+        <!-- Role Management -->
+        <section class="section">
+            <h3>Manage Roles</h3>
+            <form id="role-form">
+                <input type="text" id="role-name" placeholder="Role Name" required>
+                <button type="submit">Create Role</button>
+            </form>
+            <table id="roles-table">
+                <thead>
+                    <tr><th>ID</th><th>Name</th><th>Actions</th></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+
+        <!-- Skill Management -->
+        <section class="section">
+            <h3>Manage Skills</h3>
+            <form id="skill-form">
+                <input type="text" id="skill-name" placeholder="Skill Name" required>
+                <button type="submit">Create Skill</button>
+            </form>
+            <table id="skills-table">
+                <thead>
+                    <tr><th>ID</th><th>Name</th><th>Actions</th></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+
+        <!-- User Management -->
+        <section class="section">
+            <h3>Manage Users</h3>
+            <form id="user-form">
+                <input type="text" id="username" placeholder="Username" required>
+                <input type="text" id="password" placeholder="Password" required>
+                <select id="role-select" required>
+                    <option value="">Select Role</option>
+                </select>
+                <fieldset id="skill-checkboxes">
+                    <legend>Assign Skills</legend>
+                    <!-- Checkboxes added dynamically -->
+                </fieldset>
+                <button type="submit">Create User</button>
+            </form>
+            <table id="users-table">
+                <thead>
+                    <tr><th>ID</th><th>Username</th><th>Role</th><th>Skills</th><th>Actions</th></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </div>
+
+    <script src="../js/users.js"></script>
+</body>
+</html>

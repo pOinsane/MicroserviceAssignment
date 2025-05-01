@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "FcAHvcctP023427dDRBTEftXzZnf7jYXOwFeRA1bns8=",
+  "Source": "API.Auth",
+  "BasePath": "_content/API.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Users\\API.Users.csproj",
+      "Version": 2,
+      "Source": "API.Users",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

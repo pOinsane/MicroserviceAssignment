@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>2a9858ec-a160-4db3-a032-b4fdd86b0574</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="8.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API.Auth\API.Auth.csproj" />
+    <ProjectReference Include="..\API.Books\API.Books.csproj" />
+    <ProjectReference Include="..\API.Gateway\API.Gateway.csproj" />
+    <ProjectReference Include="..\API.Movies\API.Movies.csproj" />
+    <ProjectReference Include="..\API.Users\API.Users.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\APP.Users.deps.json
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\APP.Users.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\APP.Users.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.AssemblyInfoInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.AssemblyInfo.cs
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.csproj.CoreCompileInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\refint\APP.Users.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\ref\APP.Users.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\APP.Users.runtimeconfig.json
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\CORE.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\bin\Debug\net8.0\CORE.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.csproj.AssemblyReference.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.csproj.Up2Date
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Users\obj\Debug\net8.0\APP.Users.genruntimeconfig.cache

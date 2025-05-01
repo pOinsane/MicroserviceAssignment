@@ -1,0 +1,17 @@
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\APP.Books.deps.json
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\APP.Books.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\APP.Books.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\CORE.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\CORE.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.csproj.AssemblyReference.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.AssemblyInfoInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.AssemblyInfo.cs
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.csproj.CoreCompileInputs.cache
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.csproj.Up2Date
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\refint\APP.Books.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.pdb
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\ref\APP.Books.dll
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\bin\Debug\net8.0\APP.Books.runtimeconfig.json
+C:\Users\poifo\OneDrive\Masaüstü\MicroserviceProject\MicroserviceProject\APP.Books\obj\Debug\net8.0\APP.Books.genruntimeconfig.cache

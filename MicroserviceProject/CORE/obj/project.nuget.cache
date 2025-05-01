@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uc/YnSVkGKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\CORE\\CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.9.0\\microsoft.identitymodel.abstractions.8.9.0.nupkg.sha512",
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.identitymodel.logging\\8.9.0\\microsoft.identitymodel.logging.8.9.0.nupkg.sha512",
+    "C:\\Users\\poifo\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.9.0\\microsoft.identitymodel.tokens.8.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

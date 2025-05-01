@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "c4QGaE0pm65qtufQb9vN95WsQY9nvLU2++8DyFiJMCc=",
+  "Source": "API.Gateway",
+  "BasePath": "_content/API.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API.Gateway\\wwwroot",
+      "Source": "API.Gateway",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\css\\style.css",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "clpa7tz5oi",
+      "Integrity": "8PQpxv363Oa8SUqMJ7Uxq89oZ2I4zDm6P0S0YRpGCss=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\index.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pgrzk6llg",
+      "Integrity": "tv8ba0x5r5+iqKC/5QKpFWvOeQdG+qCbIM14eQcO7LQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\dashboard.js",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "js/dashboard#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5knetdzrvk",
+      "Integrity": "xe967xhH6Lx/OGtsSEWSlB60oVszQz6tVH5c4dWcY5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dashboard.js"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\login.js",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "56o0glf2vn",
+      "Integrity": "o5Esrp5/z8aFO9u0mnH54HrlTl5k5gurRsUNenz/oks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\register.js",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "js/register#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xsh3z8ufo5",
+      "Integrity": "4T9OPZh+0MUbFInOjcrbUaNUrjs7OLtaYGxzIgoEG9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\register.js"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\users.js",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "js/users#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s13k8jiuqs",
+      "Integrity": "cCAau/1BgccP/UC50exZpPhk2NqmCowR4nbl0Acw7G8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\users.js"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\books.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "pages/books#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yzaq0nbnwg",
+      "Integrity": "LuZkSClCwxtqJaAgg/o9i9PB5KPK7V3hoEGB/TgPKeg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\books.html"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\dashboard.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "pages/dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "odpwdaq6zg",
+      "Integrity": "hAKRrpQwlpDzC5Go2l41kPBlNJXUn5Ygv2mlP+XUxdA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\movies.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "pages/movies#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ebwgh6ahjc",
+      "Integrity": "mnCLiwheMLMUdkKbwgXSJvjWmEUUersaDutY7yWtJ3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\movies.html"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\register.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "pages/register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w1898lgge7",
+      "Integrity": "BA0iURvL+10ufk48MXcvmoFBZr9KjsbpbZ5/ABSAzac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\register.html"
+    },
+    {
+      "Identity": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\users.html",
+      "SourceId": "API.Gateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\",
+      "BasePath": "_content/API.Gateway",
+      "RelativePath": "pages/users#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t76w7f4mul",
+      "Integrity": "eaph4ve3FKJLqULjh7QUAUxDfgi3Bvku4s0qDxKWbKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\users.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.clpa7tz5oi.css",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8PQpxv363Oa8SUqMJ7Uxq89oZ2I4zDm6P0S0YRpGCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 09:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clpa7tz5oi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8PQpxv363Oa8SUqMJ7Uxq89oZ2I4zDm6P0S0YRpGCss="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8PQpxv363Oa8SUqMJ7Uxq89oZ2I4zDm6P0S0YRpGCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 09:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8PQpxv363Oa8SUqMJ7Uxq89oZ2I4zDm6P0S0YRpGCss="
+        }
+      ]
+    },
+    {
+      "Route": "index.6pgrzk6llg.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tv8ba0x5r5+iqKC/5QKpFWvOeQdG+qCbIM14eQcO7LQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pgrzk6llg"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tv8ba0x5r5+iqKC/5QKpFWvOeQdG+qCbIM14eQcO7LQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tv8ba0x5r5+iqKC/5QKpFWvOeQdG+qCbIM14eQcO7LQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tv8ba0x5r5+iqKC/5QKpFWvOeQdG+qCbIM14eQcO7LQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.5knetdzrvk.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\dashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xe967xhH6Lx/OGtsSEWSlB60oVszQz6tVH5c4dWcY5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 17:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5knetdzrvk"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboard.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xe967xhH6Lx/OGtsSEWSlB60oVszQz6tVH5c4dWcY5o="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\dashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xe967xhH6Lx/OGtsSEWSlB60oVszQz6tVH5c4dWcY5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 17:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xe967xhH6Lx/OGtsSEWSlB60oVszQz6tVH5c4dWcY5o="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.56o0glf2vn.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5Esrp5/z8aFO9u0mnH54HrlTl5k5gurRsUNenz/oks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:34:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56o0glf2vn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5Esrp5/z8aFO9u0mnH54HrlTl5k5gurRsUNenz/oks="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5Esrp5/z8aFO9u0mnH54HrlTl5k5gurRsUNenz/oks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:34:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5Esrp5/z8aFO9u0mnH54HrlTl5k5gurRsUNenz/oks="
+        }
+      ]
+    },
+    {
+      "Route": "js/register.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4T9OPZh+0MUbFInOjcrbUaNUrjs7OLtaYGxzIgoEG9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4T9OPZh+0MUbFInOjcrbUaNUrjs7OLtaYGxzIgoEG9g="
+        }
+      ]
+    },
+    {
+      "Route": "js/register.xsh3z8ufo5.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4T9OPZh+0MUbFInOjcrbUaNUrjs7OLtaYGxzIgoEG9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xsh3z8ufo5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4T9OPZh+0MUbFInOjcrbUaNUrjs7OLtaYGxzIgoEG9g="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\users.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cCAau/1BgccP/UC50exZpPhk2NqmCowR4nbl0Acw7G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 10:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cCAau/1BgccP/UC50exZpPhk2NqmCowR4nbl0Acw7G8="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.s13k8jiuqs.js",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\users.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cCAau/1BgccP/UC50exZpPhk2NqmCowR4nbl0Acw7G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 10:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s13k8jiuqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/users.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cCAau/1BgccP/UC50exZpPhk2NqmCowR4nbl0Acw7G8="
+        }
+      ]
+    },
+    {
+      "Route": "pages/books.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\books.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LuZkSClCwxtqJaAgg/o9i9PB5KPK7V3hoEGB/TgPKeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuZkSClCwxtqJaAgg/o9i9PB5KPK7V3hoEGB/TgPKeg="
+        }
+      ]
+    },
+    {
+      "Route": "pages/books.yzaq0nbnwg.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\books.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LuZkSClCwxtqJaAgg/o9i9PB5KPK7V3hoEGB/TgPKeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yzaq0nbnwg"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/books.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuZkSClCwxtqJaAgg/o9i9PB5KPK7V3hoEGB/TgPKeg="
+        }
+      ]
+    },
+    {
+      "Route": "pages/dashboard.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAKRrpQwlpDzC5Go2l41kPBlNJXUn5Ygv2mlP+XUxdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:41:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAKRrpQwlpDzC5Go2l41kPBlNJXUn5Ygv2mlP+XUxdA="
+        }
+      ]
+    },
+    {
+      "Route": "pages/dashboard.odpwdaq6zg.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAKRrpQwlpDzC5Go2l41kPBlNJXUn5Ygv2mlP+XUxdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:41:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "odpwdaq6zg"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAKRrpQwlpDzC5Go2l41kPBlNJXUn5Ygv2mlP+XUxdA="
+        }
+      ]
+    },
+    {
+      "Route": "pages/movies.ebwgh6ahjc.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mnCLiwheMLMUdkKbwgXSJvjWmEUUersaDutY7yWtJ3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 09:56:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebwgh6ahjc"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/movies.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mnCLiwheMLMUdkKbwgXSJvjWmEUUersaDutY7yWtJ3k="
+        }
+      ]
+    },
+    {
+      "Route": "pages/movies.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mnCLiwheMLMUdkKbwgXSJvjWmEUUersaDutY7yWtJ3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 09:56:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mnCLiwheMLMUdkKbwgXSJvjWmEUUersaDutY7yWtJ3k="
+        }
+      ]
+    },
+    {
+      "Route": "pages/register.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BA0iURvL+10ufk48MXcvmoFBZr9KjsbpbZ5/ABSAzac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 22:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BA0iURvL+10ufk48MXcvmoFBZr9KjsbpbZ5/ABSAzac="
+        }
+      ]
+    },
+    {
+      "Route": "pages/register.w1898lgge7.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BA0iURvL+10ufk48MXcvmoFBZr9KjsbpbZ5/ABSAzac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 22:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w1898lgge7"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BA0iURvL+10ufk48MXcvmoFBZr9KjsbpbZ5/ABSAzac="
+        }
+      ]
+    },
+    {
+      "Route": "pages/users.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\users.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eaph4ve3FKJLqULjh7QUAUxDfgi3Bvku4s0qDxKWbKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 10:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eaph4ve3FKJLqULjh7QUAUxDfgi3Bvku4s0qDxKWbKM="
+        }
+      ]
+    },
+    {
+      "Route": "pages/users.t76w7f4mul.html",
+      "AssetFile": "C:\\Users\\poifo\\OneDrive\\Masaüstü\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\users.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eaph4ve3FKJLqULjh7QUAUxDfgi3Bvku4s0qDxKWbKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 10:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t76w7f4mul"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/users.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eaph4ve3FKJLqULjh7QUAUxDfgi3Bvku4s0qDxKWbKM="
+        }
+      ]
+    }
+  ]
+}

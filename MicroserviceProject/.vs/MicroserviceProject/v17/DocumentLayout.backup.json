@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|solutionrelative:api.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\app.auth\\features\\auth\\userloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|solutionrelative:app.auth\\features\\auth\\userloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E53C26-8745-47CE-8038-2883D1E5E421}|APP.Users\\APP.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62E53C26-8745-47CE-8038-2883D1E5E421}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|solutionrelative:api.auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.auth\\api.auth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|solutionrelative:api.auth\\api.auth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|solutionrelative:api.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49D04D9-ADCB-7877-3330-6199EF02271F}|API.Auth\\API.Auth.csproj|solutionrelative:api.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\js\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\js\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\pages\\users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\pages\\users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\api.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\api.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99E72F4-9BA7-7D56-C88E-FB28534EFCB6}|API.Gateway\\API.Gateway.csproj|solutionrelative:api.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\api.users.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\api.users.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\api.users.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\api.users.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57B32A8-382F-206E-6BE6-4E2BC6A215CC}|API.Users\\API.Users.csproj|solutionrelative:api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\app.auth\\features\\auth\\userregisterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|solutionrelative:app.auth\\features\\auth\\userregisterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\app.auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57AFBC-1EDF-45C5-8477-F2DA9989560E}|APP.Auth\\APP.Auth.csproj|solutionrelative:app.auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973035E-A56C-494C-80AF-50937A5E0D85}|CORE\\CORE.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\core\\app\\common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973035E-A56C-494C-80AF-50937A5E0D85}|CORE\\CORE.csproj|solutionrelative:core\\app\\common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9699BA-DECF-2F00-3BEA-CB206E6C9BCF}|API.Books\\API.Books.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9699BA-DECF-2F00-3BEA-CB206E6C9BCF}|API.Books\\API.Books.csproj|solutionrelative:api.books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9699BA-DECF-2F00-3BEA-CB206E6C9BCF}|API.Books\\API.Books.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F9699BA-DECF-2F00-3BEA-CB206E6C9BCF}|API.Books\\API.Books.csproj|solutionrelative:api.books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0D2C42-A706-0C48-B8F6-E3C86F74C6A8}|API.Movies\\API.Movies.csproj|c:\\users\\poifo\\onedrive\\masa\u00FCst\u00FC\\microserviceproject\\microserviceproject\\api.movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0D2C42-A706-0C48-B8F6-E3C86F74C6A8}|API.Movies\\API.Movies.csproj|solutionrelative:api.movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APP.Users",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Users\\APP.Users.csproj",
+              "RelativeDocumentMoniker": "APP.Users\\APP.Users.csproj",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Users\\APP.Users.csproj",
+              "RelativeToolTip": "APP.Users\\APP.Users.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T12:24:51.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API.Auth\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API.Auth\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T11:00:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "API.Auth.http",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\API.Auth.http",
+              "RelativeDocumentMoniker": "API.Auth\\API.Auth.http",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\API.Auth.http",
+              "RelativeToolTip": "API.Auth\\API.Auth.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T11:00:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\appsettings.json",
+              "RelativeToolTip": "API.Auth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T11:00:19.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API.Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API.Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T10:55:59.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "register.js",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\register.js",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\js\\register.js",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\register.js",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\js\\register.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T10:55:12.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\js\\login.js",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T10:41:53.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T10:03:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API.Users\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API.Users\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:51:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Features\\Auth\\UserLoginHandler.cs",
+              "RelativeDocumentMoniker": "APP.Auth\\Features\\Auth\\UserLoginHandler.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Features\\Auth\\UserLoginHandler.cs",
+              "RelativeToolTip": "APP.Auth\\Features\\Auth\\UserLoginHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:40:22.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\users.js",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\js\\users.js",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\js\\users.js",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\js\\users.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T10:03:25.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API.Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API.Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:58:58.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "users.html",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\users.html",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\pages\\users.html",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\users.html",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\pages\\users.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T10:54:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\dashboard.html",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\pages\\dashboard.html",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\pages\\dashboard.html",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\pages\\dashboard.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T10:54:50.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "API.Gateway\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\wwwroot\\index.html",
+              "RelativeToolTip": "API.Gateway\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T10:54:46.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API.Gateway.http",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\API.Gateway.http",
+              "RelativeDocumentMoniker": "API.Gateway\\API.Gateway.http",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\API.Gateway.http",
+              "RelativeToolTip": "API.Gateway\\API.Gateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T10:54:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API.Users\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API.Users\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T10:51:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "API.Users\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "API.Users\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowGQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:51:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "API.Users\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "API.Users\\Controllers\\SkillsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowGQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:51:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "API.Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Auth\\Program.cs",
+              "RelativeToolTip": "API.Auth\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwF4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:16:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "API.Users.http",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\API.Users.http",
+              "RelativeDocumentMoniker": "API.Users\\API.Users.http",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\API.Users.http",
+              "RelativeToolTip": "API.Users\\API.Users.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T10:51:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRegisterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Features\\Auth\\UserRegisterHandler.cs",
+              "RelativeDocumentMoniker": "APP.Auth\\Features\\Auth\\UserRegisterHandler.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Features\\Auth\\UserRegisterHandler.cs",
+              "RelativeToolTip": "APP.Auth\\Features\\Auth\\UserRegisterHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:46:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "APP.Auth\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\APP.Auth\\Services\\AuthService.cs",
+              "RelativeToolTip": "APP.Auth\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:08:41.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "API.Users.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\API.Users.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "API.Users\\API.Users.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\API.Users.csproj.Backup.tmp",
+              "RelativeToolTip": "API.Users\\API.Users.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T12:14:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Gateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\appsettings.json",
+              "RelativeToolTip": "API.Gateway\\appsettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T11:54:43.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "API.Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Gateway\\Program.cs",
+              "RelativeToolTip": "API.Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:54:40.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Users\\appsettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\appsettings.json",
+              "RelativeToolTip": "API.Users\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T12:10:22.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\CORE\\APP\\Common\\AppSettings.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Common\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\CORE\\APP\\Common\\AppSettings.cs",
+              "RelativeToolTip": "CORE\\APP\\Common\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:53:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Books\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Books\\appsettings.json",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Books\\appsettings.json",
+              "RelativeToolTip": "API.Books\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T12:24:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Program.cs",
+              "RelativeDocumentMoniker": "API.Users\\Program.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Users\\Program.cs",
+              "RelativeToolTip": "API.Users\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:16:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Movies\\Program.cs",
+              "RelativeDocumentMoniker": "API.Movies\\Program.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Movies\\Program.cs",
+              "RelativeToolTip": "API.Movies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:16:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Books\\Program.cs",
+              "RelativeDocumentMoniker": "API.Books\\Program.cs",
+              "ToolTip": "C:\\Users\\poifo\\OneDrive\\Masa\u00FCst\u00FC\\MicroserviceProject\\MicroserviceProject\\API.Books\\Program.cs",
+              "RelativeToolTip": "API.Books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:16:26.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

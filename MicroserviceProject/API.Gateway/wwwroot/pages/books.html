@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manage Books</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Manage Books</h2>
+
+        <div class="section" id="authors-section">
+            <h3>Authors</h3>
+            <form id="author-form">
+                <input type="text" id="author-name" placeholder="Author Name" required>
+                <button type="submit">Add Author</button>
+            </form>
+            <div class="table-container">
+                <table id="authors-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Author Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Author rows will go here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="genres-section">
+            <h3>Genres</h3>
+            <form id="genre-form">
+                <input type="text" id="genre-name" placeholder="Genre Name" required>
+                <button type="submit">Add Genre</button>
+            </form>
+            <div class="table-container">
+                <table id="genres-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Genre Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Genre rows will go here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="books-section">
+            <h3>Books</h3>
+            <form id="book-form">
+                <input type="text" id="book-title" placeholder="Book Title" required>
+                <input type="text" id="book-author" placeholder="Author" required>
+                <input type="text" id="book-genre" placeholder="Genre" required>
+                <button type="submit">Add Book</button>
+            </form>
+            <div class="table-container">
+                <table id="books-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Genre</th>
+
+                            ::contentReference[oaicite:0]{index=0}
+

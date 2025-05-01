@@ -1,0 +1,11 @@
+wwwroot\css\style.css
+wwwroot\index.html
+wwwroot\js\dashboard.js
+wwwroot\js\login.js
+wwwroot\js\register.js
+wwwroot\js\users.js
+wwwroot\pages\books.html
+wwwroot\pages\dashboard.html
+wwwroot\pages\movies.html
+wwwroot\pages\register.html
+wwwroot\pages\users.html

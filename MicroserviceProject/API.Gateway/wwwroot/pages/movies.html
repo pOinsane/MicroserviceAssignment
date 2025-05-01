@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manage Movies</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Manage Movies</h2>
+
+        <div class="section" id="directors-section">
+            <h3>Directors</h3>
+            <form id="director-form">
+                <input type="text" id="director-name" placeholder="Director Name" required>
+                <button type="submit">Add Director</button>
+            </form>
+            <div class="table-container">
+                <table id="directors-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Director Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Director rows will go here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="genres-section">
+            <h3>Genres</h3>
+            <form id="genre-form">
+                <input type="text" id="genre-name" placeholder="Genre Name" required>
+                <button type="submit">Add Genre</button>
+            </form>
+            <div class="table-container">
+                <table id="genres-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Genre Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Genre rows will go here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="movies-section">
+            <h3>Movies</h3>
+            <form id="movie-form">
+                <input type="text" id="movie-title" placeholder="Movie Title" required>
+                <input type="text" id="movie-director" placeholder="Director" required>
+                <input type="text" id="movie-genre" placeholder="Genre" required>
+                <button type="submit">Add Movie</button>
+            </form>
+            <div class="table-container">
+                <table id="movies-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Director</th>
+                            <th>Genre</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Movie rows will go here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="../js/movies.js"></script>
+</body>
+</html>
